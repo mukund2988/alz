@@ -1,3 +1,4 @@
 Flask==2.0.1
-requests>=2.25.1
-numpy==1.21.0  # Is version ko use karein jo aapke Python version ke sath compatible ho
+pymongo==4.3.3
+bcrypt==4.0.1
+python-dotenv==0.21.0
